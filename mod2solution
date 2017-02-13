@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>mod2_solution</title>
+<link rel="stylesheet" type="text/css" href="css/mod2solution.css"/>
+</head>
+
+<body>
+<h1>Our Menu</h1>
+<div id="outer-box1">
+  <div class="inner-box">
+  <div id="title-box1"><h2>Chicken</h2></div>
+  <div class="content-box">
+  <p>Lorem ipsum dolor sit amet, nam eu nihil utinam mnesarchum, ea eirmod civibus tincidunt nam. Usu munere feugait tincidunt ex, quem vide ornatus eu per. Vix commune salutatus dissentiet an. Legere doming accommodare ad quo, ne ius purto noluisse percipitur. Nam in modus theophrastus.</p>
+  </div>
+  </div>
+  </div>
+
+<div id="outer-box2">
+  <div class="inner-box">
+  <div id="title-box2"><h2>Beef</h2></div>
+  <div class="content-box">
+  <p>Lorem ipsum dolor sit amet, nam eu nihil utinam mnesarchum, ea eirmod civibus tincidunt nam. Usu munere feugait tincidunt ex, quem vide ornatus eu per. Vix commune salutatus dissentiet an. Legere doming accommodare ad quo, ne ius purto noluisse percipitur. Nam in modus theophrastus.</p>
+  </div>
+  </div>
+  </div>
+
+  <div id="outer-box3">
+   <div class="inner-box3">
+   <div id="title-box3"><h2>Sushi</h2></div>
+   <div class="content-box">
+   <p>Lorem ipsum dolor sit amet, nam eu nihil utinam mnesarchum, ea eirmod civibus tincidunt nam. Usu munere feugait tincidunt ex, quem vide ornatus eu per. Vix commune salutatus dissentiet an. Legere doming accommodare ad quo, ne ius purto noluisse percipitur. Nam in modus theophrastus.</p>
+   </div>
+   </div>
+   </div>
+
+  
+  </body>
+  </html>
